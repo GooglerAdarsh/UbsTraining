@@ -21,3 +21,8 @@ save and exit form file
 sql> @  path with file name
 
 
+explicit curser (for featching multiple rows from the columns)
+delclare 
+open the curser
+featch rows (till not null)
+close the curser
