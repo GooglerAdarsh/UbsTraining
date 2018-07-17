@@ -1,3 +1,21 @@
 spool in oracle.
 what is rdbms.
 not managers
+
+
+block 1)anonymous 2)named
+
+procedure of pl sql code
+    delecration
+    begin
+    exception
+    end
+    
+varible 1) pl -sql varible (which are declared in pl sql block) 2) non sql valrible (out side pl sql block) (2 type )(1) local 2)global)
+
+how to use plsql files 
+create folder to keep ps sql codes
+login
+sql> ed path with filename
+save and exit form file
+sql> @  path with file name
