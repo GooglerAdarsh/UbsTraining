@@ -19,3 +19,5 @@ login
 sql> ed path with filename
 save and exit form file
 sql> @  path with file name
+
+
